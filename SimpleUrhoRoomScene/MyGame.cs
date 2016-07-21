@@ -11,7 +11,7 @@ namespace SimpleUrhoRoomScene
 		float yaw = -90.0f;
 		float pitch;
 
-		public MyGame() : base(new ApplicationOptions(new[] {"Data"})) { }
+		public MyGame() : base(new ApplicationOptions(new[] {"Assets"})) { }
 
 		protected override void Start()
 		{
