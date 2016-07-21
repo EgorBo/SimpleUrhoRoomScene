@@ -156,5 +156,283 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <BundleResource Include="..\Assets\Materials\beanbag.xml">
+      <Link>Resources\Assets\Materials\beanbag.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\boards.xml">
+      <Link>Resources\Assets\Materials\boards.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\bookopen.xml">
+      <Link>Resources\Assets\Materials\bookopen.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\books.xml">
+      <Link>Resources\Assets\Materials\books.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\branch.xml">
+      <Link>Resources\Assets\Materials\branch.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\ceiling.xml">
+      <Link>Resources\Assets\Materials\ceiling.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\cushion.xml">
+      <Link>Resources\Assets\Materials\cushion.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\floor.xml">
+      <Link>Resources\Assets\Materials\floor.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\pillows.xml">
+      <Link>Resources\Assets\Materials\pillows.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\pillows2.xml">
+      <Link>Resources\Assets\Materials\pillows2.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\pillows3.xml">
+      <Link>Resources\Assets\Materials\pillows3.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\shelves.xml">
+      <Link>Resources\Assets\Materials\shelves.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\vase.xml">
+      <Link>Resources\Assets\Materials\vase.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\walls.xml">
+      <Link>Resources\Assets\Materials\walls.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\weapon_metal.xml">
+      <Link>Resources\Assets\Materials\weapon_metal.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\weapon_wood.xml">
+      <Link>Resources\Assets\Materials\weapon_wood.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Materials\window.xml">
+      <Link>Resources\Assets\Materials\window.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\beanbag.mdl">
+      <Link>Resources\Assets\Models\beanbag.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\beanbag.txt">
+      <Link>Resources\Assets\Models\beanbag.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\boards.mdl">
+      <Link>Resources\Assets\Models\boards.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\boards.txt">
+      <Link>Resources\Assets\Models\boards.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\bookopen.mdl">
+      <Link>Resources\Assets\Models\bookopen.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\bookopen.txt">
+      <Link>Resources\Assets\Models\bookopen.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\books.mdl">
+      <Link>Resources\Assets\Models\books.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\books.txt">
+      <Link>Resources\Assets\Models\books.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\branch.mdl">
+      <Link>Resources\Assets\Models\branch.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\branch.txt">
+      <Link>Resources\Assets\Models\branch.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\ceiling.mdl">
+      <Link>Resources\Assets\Models\ceiling.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\ceiling.txt">
+      <Link>Resources\Assets\Models\ceiling.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\cushion.mdl">
+      <Link>Resources\Assets\Models\cushion.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\cushion.txt">
+      <Link>Resources\Assets\Models\cushion.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\floor.mdl">
+      <Link>Resources\Assets\Models\floor.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\floor.txt">
+      <Link>Resources\Assets\Models\floor.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\pillows.mdl">
+      <Link>Resources\Assets\Models\pillows.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\pillows.txt">
+      <Link>Resources\Assets\Models\pillows.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\pillows2.mdl">
+      <Link>Resources\Assets\Models\pillows2.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\pillows2.txt">
+      <Link>Resources\Assets\Models\pillows2.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\pillows3.mdl">
+      <Link>Resources\Assets\Models\pillows3.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\pillows3.txt">
+      <Link>Resources\Assets\Models\pillows3.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\shelves.mdl">
+      <Link>Resources\Assets\Models\shelves.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\shelves.txt">
+      <Link>Resources\Assets\Models\shelves.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\vase.mdl">
+      <Link>Resources\Assets\Models\vase.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\vase.txt">
+      <Link>Resources\Assets\Models\vase.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\walls.mdl">
+      <Link>Resources\Assets\Models\walls.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\walls.txt">
+      <Link>Resources\Assets\Models\walls.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\weapon.mdl">
+      <Link>Resources\Assets\Models\weapon.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\weapon.txt">
+      <Link>Resources\Assets\Models\weapon.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\window.mdl">
+      <Link>Resources\Assets\Models\window.mdl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Models\window.txt">
+      <Link>Resources\Assets\Models\window.txt</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Scenes\Room.xml">
+      <Link>Resources\Assets\Scenes\Room.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Shaders\GLSL\MyLitSolid.glsl">
+      <Link>Resources\Assets\Shaders\GLSL\MyLitSolid.glsl</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Techniques\DiffEnvCubeWeapon.xml">
+      <Link>Resources\Assets\Techniques\DiffEnvCubeWeapon.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Techniques\DiffSpecWeapon.xml">
+      <Link>Resources\Assets\Techniques\DiffSpecWeapon.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Techniques\DiffUnlitDepth.xml">
+      <Link>Resources\Assets\Techniques\DiffUnlitDepth.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Techniques\NoTextureUnlitDepth.xml">
+      <Link>Resources\Assets\Techniques\NoTextureUnlitDepth.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\EnvBlurred.xml">
+      <Link>Resources\Assets\Textures\EnvBlurred.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\EnvBlurred_c00.png">
+      <Link>Resources\Assets\Textures\EnvBlurred_c00.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\EnvBlurred_c01.png">
+      <Link>Resources\Assets\Textures\EnvBlurred_c01.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\EnvBlurred_c02.png">
+      <Link>Resources\Assets\Textures\EnvBlurred_c02.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\EnvBlurred_c03.png">
+      <Link>Resources\Assets\Textures\EnvBlurred_c03.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\EnvBlurred_c04.png">
+      <Link>Resources\Assets\Textures\EnvBlurred_c04.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\EnvBlurred_c05.png">
+      <Link>Resources\Assets\Textures\EnvBlurred_c05.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\TouchInput.png">
+      <Link>Resources\Assets\Textures\TouchInput.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\UI.png">
+      <Link>Resources\Assets\Textures\UI.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\UI.xml">
+      <Link>Resources\Assets\Textures\UI.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\beanbag.jpg">
+      <Link>Resources\Assets\Textures\beanbag.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\beanbag.xml">
+      <Link>Resources\Assets\Textures\beanbag.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\boards.jpg">
+      <Link>Resources\Assets\Textures\boards.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\boards.xml">
+      <Link>Resources\Assets\Textures\boards.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\bookopen.jpg">
+      <Link>Resources\Assets\Textures\bookopen.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\books.jpg">
+      <Link>Resources\Assets\Textures\books.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\ceiling.jpg">
+      <Link>Resources\Assets\Textures\ceiling.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\ceiling.xml">
+      <Link>Resources\Assets\Textures\ceiling.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\colt.jpg">
+      <Link>Resources\Assets\Textures\colt.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\cushion.jpg">
+      <Link>Resources\Assets\Textures\cushion.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\cushion.xml">
+      <Link>Resources\Assets\Textures\cushion.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\floor.jpg">
+      <Link>Resources\Assets\Textures\floor.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\floor.xml">
+      <Link>Resources\Assets\Textures\floor.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\pillows.jpg">
+      <Link>Resources\Assets\Textures\pillows.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\pillows2.jpg">
+      <Link>Resources\Assets\Textures\pillows2.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\pillows3.jpg">
+      <Link>Resources\Assets\Textures\pillows3.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\shelves.jpg">
+      <Link>Resources\Assets\Textures\shelves.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\shelves.xml">
+      <Link>Resources\Assets\Textures\shelves.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\vase.jpg">
+      <Link>Resources\Assets\Textures\vase.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\vase.xml">
+      <Link>Resources\Assets\Textures\vase.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\walls.jpg">
+      <Link>Resources\Assets\Textures\walls.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\walls.xml">
+      <Link>Resources\Assets\Textures\walls.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\windows.jpg">
+      <Link>Resources\Assets\Textures\windows.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\Textures\windows.xml">
+      <Link>Resources\Assets\Textures\windows.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\UI\DefaultStyle.xml">
+      <Link>Resources\Assets\UI\DefaultStyle.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\UI\ScreenJoystick.xml">
+      <Link>Resources\Assets\UI\ScreenJoystick.xml</Link>
+    </BundleResource>
+    <BundleResource Include="..\Assets\UI\ScreenJoystick_Samples.xml">
+      <Link>Resources\Assets\UI\ScreenJoystick_Samples.xml</Link>
+    </BundleResource>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

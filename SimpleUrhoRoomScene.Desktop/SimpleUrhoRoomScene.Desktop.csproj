@@ -50,6 +50,282 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="..\Assets\Materials\beanbag.xml">
+      <Link>Assets\Materials\beanbag.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\boards.xml">
+      <Link>Assets\Materials\boards.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\bookopen.xml">
+      <Link>Assets\Materials\bookopen.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\books.xml">
+      <Link>Assets\Materials\books.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\branch.xml">
+      <Link>Assets\Materials\branch.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\ceiling.xml">
+      <Link>Assets\Materials\ceiling.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\cushion.xml">
+      <Link>Assets\Materials\cushion.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\floor.xml">
+      <Link>Assets\Materials\floor.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\pillows.xml">
+      <Link>Assets\Materials\pillows.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\pillows2.xml">
+      <Link>Assets\Materials\pillows2.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\pillows3.xml">
+      <Link>Assets\Materials\pillows3.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\shelves.xml">
+      <Link>Assets\Materials\shelves.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\vase.xml">
+      <Link>Assets\Materials\vase.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\walls.xml">
+      <Link>Assets\Materials\walls.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\weapon_metal.xml">
+      <Link>Assets\Materials\weapon_metal.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\weapon_wood.xml">
+      <Link>Assets\Materials\weapon_wood.xml</Link>
+    </None>
+    <None Include="..\Assets\Materials\window.xml">
+      <Link>Assets\Materials\window.xml</Link>
+    </None>
+    <None Include="..\Assets\Models\beanbag.mdl">
+      <Link>Assets\Models\beanbag.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\beanbag.txt">
+      <Link>Assets\Models\beanbag.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\boards.mdl">
+      <Link>Assets\Models\boards.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\boards.txt">
+      <Link>Assets\Models\boards.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\bookopen.mdl">
+      <Link>Assets\Models\bookopen.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\bookopen.txt">
+      <Link>Assets\Models\bookopen.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\books.mdl">
+      <Link>Assets\Models\books.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\books.txt">
+      <Link>Assets\Models\books.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\branch.mdl">
+      <Link>Assets\Models\branch.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\branch.txt">
+      <Link>Assets\Models\branch.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\ceiling.mdl">
+      <Link>Assets\Models\ceiling.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\ceiling.txt">
+      <Link>Assets\Models\ceiling.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\cushion.mdl">
+      <Link>Assets\Models\cushion.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\cushion.txt">
+      <Link>Assets\Models\cushion.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\floor.mdl">
+      <Link>Assets\Models\floor.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\floor.txt">
+      <Link>Assets\Models\floor.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\pillows.mdl">
+      <Link>Assets\Models\pillows.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\pillows.txt">
+      <Link>Assets\Models\pillows.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\pillows2.mdl">
+      <Link>Assets\Models\pillows2.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\pillows2.txt">
+      <Link>Assets\Models\pillows2.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\pillows3.mdl">
+      <Link>Assets\Models\pillows3.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\pillows3.txt">
+      <Link>Assets\Models\pillows3.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\shelves.mdl">
+      <Link>Assets\Models\shelves.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\shelves.txt">
+      <Link>Assets\Models\shelves.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\vase.mdl">
+      <Link>Assets\Models\vase.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\vase.txt">
+      <Link>Assets\Models\vase.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\walls.mdl">
+      <Link>Assets\Models\walls.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\walls.txt">
+      <Link>Assets\Models\walls.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\weapon.mdl">
+      <Link>Assets\Models\weapon.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\weapon.txt">
+      <Link>Assets\Models\weapon.txt</Link>
+    </None>
+    <None Include="..\Assets\Models\window.mdl">
+      <Link>Assets\Models\window.mdl</Link>
+    </None>
+    <None Include="..\Assets\Models\window.txt">
+      <Link>Assets\Models\window.txt</Link>
+    </None>
+    <None Include="..\Assets\Scenes\Room.xml">
+      <Link>Assets\Scenes\Room.xml</Link>
+    </None>
+    <None Include="..\Assets\Shaders\GLSL\MyLitSolid.glsl">
+      <Link>Assets\Shaders\GLSL\MyLitSolid.glsl</Link>
+    </None>
+    <None Include="..\Assets\Techniques\DiffEnvCubeWeapon.xml">
+      <Link>Assets\Techniques\DiffEnvCubeWeapon.xml</Link>
+    </None>
+    <None Include="..\Assets\Techniques\DiffSpecWeapon.xml">
+      <Link>Assets\Techniques\DiffSpecWeapon.xml</Link>
+    </None>
+    <None Include="..\Assets\Techniques\DiffUnlitDepth.xml">
+      <Link>Assets\Techniques\DiffUnlitDepth.xml</Link>
+    </None>
+    <None Include="..\Assets\Techniques\NoTextureUnlitDepth.xml">
+      <Link>Assets\Techniques\NoTextureUnlitDepth.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\EnvBlurred.xml">
+      <Link>Assets\Textures\EnvBlurred.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\EnvBlurred_c00.png">
+      <Link>Assets\Textures\EnvBlurred_c00.png</Link>
+    </None>
+    <None Include="..\Assets\Textures\EnvBlurred_c01.png">
+      <Link>Assets\Textures\EnvBlurred_c01.png</Link>
+    </None>
+    <None Include="..\Assets\Textures\EnvBlurred_c02.png">
+      <Link>Assets\Textures\EnvBlurred_c02.png</Link>
+    </None>
+    <None Include="..\Assets\Textures\EnvBlurred_c03.png">
+      <Link>Assets\Textures\EnvBlurred_c03.png</Link>
+    </None>
+    <None Include="..\Assets\Textures\EnvBlurred_c04.png">
+      <Link>Assets\Textures\EnvBlurred_c04.png</Link>
+    </None>
+    <None Include="..\Assets\Textures\EnvBlurred_c05.png">
+      <Link>Assets\Textures\EnvBlurred_c05.png</Link>
+    </None>
+    <None Include="..\Assets\Textures\TouchInput.png">
+      <Link>Assets\Textures\TouchInput.png</Link>
+    </None>
+    <None Include="..\Assets\Textures\UI.png">
+      <Link>Assets\Textures\UI.png</Link>
+    </None>
+    <None Include="..\Assets\Textures\UI.xml">
+      <Link>Assets\Textures\UI.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\beanbag.jpg">
+      <Link>Assets\Textures\beanbag.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\beanbag.xml">
+      <Link>Assets\Textures\beanbag.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\boards.jpg">
+      <Link>Assets\Textures\boards.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\boards.xml">
+      <Link>Assets\Textures\boards.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\bookopen.jpg">
+      <Link>Assets\Textures\bookopen.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\books.jpg">
+      <Link>Assets\Textures\books.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\ceiling.jpg">
+      <Link>Assets\Textures\ceiling.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\ceiling.xml">
+      <Link>Assets\Textures\ceiling.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\colt.jpg">
+      <Link>Assets\Textures\colt.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\cushion.jpg">
+      <Link>Assets\Textures\cushion.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\cushion.xml">
+      <Link>Assets\Textures\cushion.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\floor.jpg">
+      <Link>Assets\Textures\floor.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\floor.xml">
+      <Link>Assets\Textures\floor.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\pillows.jpg">
+      <Link>Assets\Textures\pillows.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\pillows2.jpg">
+      <Link>Assets\Textures\pillows2.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\pillows3.jpg">
+      <Link>Assets\Textures\pillows3.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\shelves.jpg">
+      <Link>Assets\Textures\shelves.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\shelves.xml">
+      <Link>Assets\Textures\shelves.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\vase.jpg">
+      <Link>Assets\Textures\vase.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\vase.xml">
+      <Link>Assets\Textures\vase.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\walls.jpg">
+      <Link>Assets\Textures\walls.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\walls.xml">
+      <Link>Assets\Textures\walls.xml</Link>
+    </None>
+    <None Include="..\Assets\Textures\windows.jpg">
+      <Link>Assets\Textures\windows.jpg</Link>
+    </None>
+    <None Include="..\Assets\Textures\windows.xml">
+      <Link>Assets\Textures\windows.xml</Link>
+    </None>
+    <None Include="..\Assets\UI\DefaultStyle.xml">
+      <Link>Assets\UI\DefaultStyle.xml</Link>
+    </None>
+    <None Include="..\Assets\UI\ScreenJoystick.xml">
+      <Link>Assets\UI\ScreenJoystick.xml</Link>
+    </None>
+    <None Include="..\Assets\UI\ScreenJoystick_Samples.xml">
+      <Link>Assets\UI\ScreenJoystick_Samples.xml</Link>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimpleUrhoRoomScene\SimpleUrhoRoomScene.csproj">
@@ -58,9 +334,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\Assets\Materials\*">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="UrhoSharpReadme.txt" />
   </ItemGroup>
   <ItemGroup />
