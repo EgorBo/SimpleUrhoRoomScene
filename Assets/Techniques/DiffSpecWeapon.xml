@@ -1,0 +1,4 @@
+<technique vs="MyLitSolid" ps="MyLitSolid" psdefines="DIFFMAP">
+    <pass name="base" />
+    <pass name="light" psdefines="SPECMAP" depthtest="equal" depthwrite="false" blend="add" />
+</technique>

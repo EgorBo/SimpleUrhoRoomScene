@@ -1,0 +1,9 @@
+<material>
+	<technique name="Techniques/DiffSpecWeapon.xml"/>
+	<texture name="Textures/colt.jpg" unit="diffuse"/>
+	<texture name="Textures/colt.jpg" unit="specular"/>
+	<parameter name="MatDiffColor" value="1 1 1 1"/>
+	<parameter name="MatSpecColor" value="1 1 1 10"/>
+	<cull value="none"/>
+	<shadowcull value="none"/>
+</material>
